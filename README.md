@@ -6,8 +6,8 @@ there are two examples in it:
 - JavaScript
 - JQuery
 
-In those examples basic codes, that can be run in the browser, are shown; some of them are implemented in one of the Django's app named "ads", developed 
-in the other courses of the [Django for Everybody](https://www.coursera.org/specializations/django) specialization. The complete [ads](https://alejandrozz.pythonanywhere.com/ads/) app is host by [pythonanywhere](https://www.pythonanywhere.com/). 
+In those examples basic codes, that can be run in the browser, are shown in html files; some of them are implemented in one of the Django's app named "ads", 
+developed in the other courses of the [Django for Everybody](https://www.coursera.org/specializations/django) specialization. The complete [ads](https://alejandrozz.pythonanywhere.com/ads/) app is host by [pythonanywhere](https://www.pythonanywhere.com/). 
 
 ## Note: 
 
