@@ -11,4 +11,4 @@ developed in the other courses of the [Django for Everybody](https://www.courser
 
 ## Note: 
 
-Because the app name is `ads` some of its components might be blocked if you are using an adblocker.
+Because the app name is `ads` some of its components might be blocked if you are using an adblocker. To see all elements just stop for a while your adblock and reload the site.
